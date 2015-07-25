@@ -48,7 +48,7 @@ p {
 
 .bg-primary {
     /*background-color: #f05f40;*/
-    background-color: #122b40;
+    background-color: #006395;
 }
 
 .bg-dark {
@@ -315,7 +315,7 @@ header .header-content .header-content-inner p {
 }
 
 .pricing-box:hover .portfolio-box-caption {
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
 @media(min-width:768px) {
