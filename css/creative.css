@@ -490,3 +490,7 @@ body {
 .spacer {
     padding: 30px;
 }
+
+.disclamer {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
