@@ -308,6 +308,7 @@ header .header-content .header-content-inner p {
 
 .pricing-box .pricing-details {
     display: none;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 .pricing-box:hover .pricing-details {
