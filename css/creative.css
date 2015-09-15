@@ -493,5 +493,6 @@ body {
 }
 
 .disclamer {
+    padding-top: 5px;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
