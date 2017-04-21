@@ -176,7 +176,7 @@ header {
     text-align: center;
     color: #fff;
     text-shadow: 0 0 3px #000000;
-    background-image: url(../dist/images/header.jpg);
+    background-image: url(../images/header.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
