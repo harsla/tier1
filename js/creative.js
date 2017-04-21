@@ -13,7 +13,7 @@
     // Highlight the top nav as scrolling occurs
     $('body').scrollspy({
         target: '.navbar-fixed-top',
-        offset: 51
+        offset: 52
     })
 
     // Closes the Responsive Menu on Menu Item Click
@@ -21,7 +21,8 @@
         $('.navbar-toggle:visible').click();
     });
 
-    // Fit Text Plugin for Main Header
+    // Fit Text Plugin for Main Heade
+  // <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
     $("h1").fitText(
         1.2, {
             minFontSize: '35px',
